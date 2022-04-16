@@ -5,7 +5,7 @@ li{ list-style: none; float: left}
 a{ text-decoration: none}
 <!-- 注意！为了优化演示站访问速度下方引用的是CDN上的背景图片文件地址，请修改为自己的背景图片文件地址 -->
 body {	
-    background-image: url(https://user-images.githubusercontent.com/103820457/163670195-83682e36-dc56-48cf-a860-5e346debc770.png);
+    background-image: url(https://user-images.githubusercontent.com/103820457/163678942-ed224fb7-15da-407a-8ade-664eb65e7c27.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
